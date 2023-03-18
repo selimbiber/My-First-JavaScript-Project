@@ -1,0 +1,41 @@
+body {
+  background: #ff3019;
+  background: -moz-linear-gradient(45deg,  #ff3019 0%, #cf0404 100%);
+  background: -webkit-linear-gradient(45deg,  #ff3019 0%,#cf0404 100%);
+  background: linear-gradient(45deg,  #ff3019 0%,#cf0404 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=1 );
+}
+
+.clock {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 60px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 3px;
+}
+
+.userName {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 3px;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 30px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 3px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+ img {
+     margin-top: 90px;
+     width: 30%;
+}
